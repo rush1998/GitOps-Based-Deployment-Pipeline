@@ -1,1 +1,1 @@
-# Project 5: GitOps-Based-Deployment-Pipeline
+# Project 5 (Azure DevOps Version): GitOps-Based Deployment Pipeline using ArgoCD and Azure DevOps
